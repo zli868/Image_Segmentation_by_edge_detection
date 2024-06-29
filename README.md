@@ -1,4 +1,4 @@
-The project investigated how can the image segementation be implemented not from the Neural network methods. Using edge detection techniques and flood fill in, we will have a comparable results.
+The project investigated how can the image segementation be implemented not from the deep learning methods. Using edge detection techniques and flood fill in, we will have a comparable results.
 
 The code is written in jupter-notebook.
 
